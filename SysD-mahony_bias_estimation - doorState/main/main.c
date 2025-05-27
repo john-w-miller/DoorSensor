@@ -37,6 +37,7 @@ static void imu_task(void *arg)
     {
         ESP_LOGE(TAG, "IMU init failed: %d", ret);
         vTaskDelete(NULL);
+        // TODO: send mqtt error message 
         return;
     }
 
@@ -51,7 +52,14 @@ static void imu_task(void *arg)
     ESP_LOGI(TAG, "IMU calibration complete");
 
     // 4) Initialize door‐state FSM
-    door_state_init();
+    ret = door_state_init();
+    if (ret != ESP_OK)
+    {
+        ESP_LOGE(TAG, "door_state init failed: %d", ret);
+        vTaskDelete(NULL);
+        // TODO: send mqtt error message 
+        return;
+    }
 
     float last_bx = 0.0f;
     float last_by = 0.0f;
@@ -133,6 +141,9 @@ static void imu_task(void *arg)
 
 void app_main(void)
 {
+
+    esp_log_level_set("imu_filter", ESP_LOG_DEBUG);
+    
     // Create the IMU task on core 0, priority 5, 4 KiB stack
     xTaskCreatePinnedToCore(
         imu_task,

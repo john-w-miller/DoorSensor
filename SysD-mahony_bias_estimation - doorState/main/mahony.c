@@ -14,6 +14,8 @@
  * low-pass smoothing, and gated LPF bias estimation triggered by door events.
  */
 
+ static const char *TAG = "imu_filter";
+
 /* LPF state for Euler angles */
 static float lpf_alpha = 0.9f;
 static float lpf_yaw = 0.0f, lpf_pitch = 0.0f, lpf_roll = 0.0f;
@@ -87,7 +89,7 @@ static void compensate_and_update_bias(float *gx, float *gy, float *gz)
     {
 
         if ((trace_ctr++ % 200) == 0)
-            ESP_LOGI("MAHONY",
+            ESP_LOGD(TAG,
                      "FROZEN (OPEN): gyroBias=%.5f, ts=0",
                      gyroBiasX);
 
@@ -102,13 +104,13 @@ static void compensate_and_update_bias(float *gx, float *gy, float *gz)
     {
         TickType_t dt = now - bias_close_ts;
         if ((trace_ctr++ % 200) == 0)
-            ESP_LOGI("MAHONY",
+            ESP_LOGD(TAG,
                      "WARMUP: dt=%lums < %lums, gyroBias=%.5f",
                      dt, BIAS_SNAPSHOT_DELAY_MS, gyroBiasX);
 
         if ((now - bias_close_ts) < pdMS_TO_TICKS(BIAS_SNAPSHOT_DELAY_MS))
         {
-            ESP_LOGI("MAHONY", "Not Warm");
+            ESP_LOGD(TAG, "Not Warm");
             *gx -= gyroBiasX;
             *gy -= gyroBiasY;
             *gz -= gyroBiasZ;
@@ -126,7 +128,7 @@ static void compensate_and_update_bias(float *gx, float *gy, float *gz)
     float raw_gx = *gx, raw_gy = *gy, raw_gz = *gz;
 
     if ((trace_ctr++ % 200) == 0)
-        ESP_LOGI("MAHONY",
+        ESP_LOGD(TAG,
                  "LPF UPDATE: raw=%.5f, oldBias=%.5f -> ",
                  raw_gx, gyroBiasX);
 
@@ -140,9 +142,8 @@ static void compensate_and_update_bias(float *gx, float *gy, float *gz)
     gyroBiasZ = BIAS_LPF_ALPHA * gyroBiasZ + (1.0f - BIAS_LPF_ALPHA) * raw_gz;
 
     if ((trace_ctr % 200) == 1)
-        ESP_LOGI("MAHONY",
-                 "newBias=%.5f",
-                 gyroBiasX);
+        ESP_LOGD(TAG, "newBias=%.5f, yaw=%.5f", gyroBiasX, 
+            atan2f(2.0f * (q1 * q2 + q0 * q3), q0 * q0 + q1 * q1 - q2 * q2 - q3 * q3));
 }
 
 /** @} */ // end of BiasEstimation
@@ -170,7 +171,7 @@ bool mahony_ahrs_6d_update(float gx, float gy, float gz,
     TickType_t now = xTaskGetTickCount();
     if ((now - last_dump) >= pdMS_TO_TICKS(1000))
     {
-        ESP_LOGI("MAHONY",
+        ESP_LOGD(TAG,
                  "STATE: close_ts=%lu, snapTaken=%d, snap=%.5f, bias=%.5f",
                  bias_close_ts, bias_snapshot_taken,
                  snapBiasX, gyroBiasX);
@@ -425,7 +426,7 @@ void mahony_on_door_closed_event(void)
     // 2) start new warm‐up
     bias_close_ts = xTaskGetTickCount();
     bias_snapshot_taken = false;
-    ESP_LOGI("MAHONY",
+    ESP_LOGI(TAG,
              "DOOR CLOSED: snap=%.5f, gyroBias=%.5f, ts=%lu",
              snapBiasX, gyroBiasX, bias_close_ts);
 }
@@ -453,7 +454,7 @@ void mahony_on_door_open_event(void)
     bias_close_ts = 0;
     bias_snapshot_taken = false;
 
-    ESP_LOGI("MAHONY",
+    ESP_LOGI(TAG,
              "DOOR OPENED: snap=%.5f, gyroBias=%.5f, ts=0",
              snapBiasX, gyroBiasX);
 }

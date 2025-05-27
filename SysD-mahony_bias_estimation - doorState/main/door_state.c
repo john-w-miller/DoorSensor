@@ -10,20 +10,6 @@
 #include "mahony.h"
 
 static const char *TAG = "door_state";
-static door_state_t state;
-static TickType_t candidate_ts;
-static float yaw_at_candidate;
-
-#define SESSION_STATIC_SAMPLES  50
-
-// thresholds
-#define OPEN_ANGLE_THRESHOLD_RAD (20.0f * M_PI / 180.0f)
-#define CLOSE_ANGLE_THRESHOLD_RAD (15.0f * M_PI / 180.0f)
-#define ACCEL_STATIONARY_THRESH 0.05f // | |a|−1 | < 0.05
-#define STATIONARY_TIME_MS 1000       // 1 s
-#define RAD_TO_DEG (180.0f / M_PI)
-// how much fused‐yaw drift (total) you allow over that time:
-#define YAW_STATIONARY_THRESH_RAD (0.5f * M_PI / 180.0f) // 0.5°
 
 EventGroupHandle_t door_event_group = NULL;
 static door_state_t state;
@@ -64,16 +50,29 @@ void door_signal_session_end(void)
     }
 }
 
-void door_state_init(void)
+esp_err_t door_state_init(void)
 {
     state = DOOR_STATE_CLOSED;
     candidate_ts = 0;
     yaw_at_candidate = 0;
     // create the event group for session-end signaling
     door_event_group = xEventGroupCreate(); 
+
+    if (door_event_group == NULL) {
+        // Failed to allocate — log and halt to avoid null‐pointer later
+        ESP_LOGE(TAG, "Failed to create door_event_group!");
+        return ESP_ERR_NO_MEM;
+        // You could vTaskDelete(NULL), abort(), or enter an infinite loop
+        // so that you don’t try to use a NULL handle in door_signal_session_end().
+
+    } else {
+        ESP_LOGI(TAG, "door_event_group created");
+    }
     
     // Treat startup as a “closed” event so our bias‐LPF begins warming up immediately
     mahony_on_door_closed_event();
+
+    return ESP_OK;
 }
 
 void door_state_update(float yaw,
@@ -117,7 +116,7 @@ void door_state_update(float yaw,
         }
         else
         {
-            ESP_LOGI(TAG,
+            ESP_LOGV(TAG,
                      "cand: yaw=%.1f°, |Δa|=%.3f, dt=%.0fms",
                      yaw * RAD_TO_DEG,
                      fabsf(accel_mag - 1.0f),
@@ -134,7 +133,7 @@ void door_state_update(float yaw,
         }
         else
         {
-            ESP_LOGI(TAG,
+            ESP_LOGV(TAG,
                      "cand: yaw=%.1f°, |Δa|=%.3f, dt=%.0fms",
                      yaw * RAD_TO_DEG,
                      fabsf(accel_mag - 1.0f),
@@ -147,14 +146,14 @@ void door_state_update(float yaw,
         if (yaw > CLOSE_ANGLE_THRESHOLD_RAD)
         {
             state = DOOR_STATE_OPEN;
-            ESP_LOGI(TAG, "CANDIDATE→OPEN (yaw=%.1f°)", yaw * RAD_TO_DEG);
+            ESP_LOGD(TAG, "CANDIDATE→OPEN (yaw=%.1f°)", yaw * RAD_TO_DEG);
             break;
         }
 
         // now we’re truly in the candidate window—log every 100 ms for debugging
         if ((now - candidate_ts) % pdMS_TO_TICKS(100) == 0)
         {
-            ESP_LOGI(TAG,
+            ESP_LOGD(TAG,
                      "CANDIDATE: yaw=%.1f°, Δyaw=%.2f°, Δa=%.3f, dt=%.0fms",
                      yaw * RAD_TO_DEG,
                      fabsf(yaw - yaw_at_candidate) * RAD_TO_DEG,
@@ -174,7 +173,7 @@ void door_state_update(float yaw,
             else if (!accel_ok || dyaw >= YAW_STATIONARY_THRESH_RAD)
             {
                 // bump detected → restart the candidate timer
-                ESP_LOGI(TAG,
+                ESP_LOGD(TAG,
                          "CANDIDATE reset: Δyaw=%.2f°, Δa=%.3f",
                          dyaw * RAD_TO_DEG,
                          fabsf(accel_mag - 1.0f));
@@ -184,7 +183,7 @@ void door_state_update(float yaw,
             else
             {
                 // still in candidate, but not stationary yet
-                ESP_LOGI(TAG,
+                ESP_LOGD(TAG,
                          "CANDIDATE: still waiting… Δyaw=%.2f°, Δa=%.3f",
                          dyaw * RAD_TO_DEG,
                          fabsf(accel_mag - 1.0f));
