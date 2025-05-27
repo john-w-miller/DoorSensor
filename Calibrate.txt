@@ -1,0 +1,67 @@
+    while(1) imu_calibrate(2000, 5);
+I (8627) imu:   gyro bias: 111 -456 85 counts
+I (17117) imu:  gyro bias: 120 -443 76 counts
+I (25607) imu:  gyro bias: 121 -443 74 counts
+I (34097) imu:  gyro bias: 120 -442 75 counts
+I (42597) imu:  gyro bias: 120 -443 75 counts
+I (51087) imu:  gyro bias: 120 -443 75 counts
+I (59577) imu:  gyro bias: 121 -442 75 counts
+I (68067) imu:  gyro bias: 121 -443 75 counts
+I (76557) imu:  gyro bias: 121 -442 75 counts
+I (85047) imu:  gyro bias: 121 -443 74 counts
+I (93537) imu:  gyro bias: 121 -443 74 counts
+I (102027) imu: gyro bias: 121 -443 74 counts
+I (110517) imu: gyro bias: 121 -443 74 counts
+I (119017) imu: gyro bias: 120 -443 76 counts
+I (127507) imu: gyro bias: 120 -443 76 counts
+I (135997) imu: gyro bias: 120 -443 75 counts
+I (144487) imu: gyro bias: 121 -443 75 counts
+I (152977) imu: gyro bias: 120 -443 75 counts
+I (161467) imu: gyro bias: 120 -443 75 counts
+
+
+    imu_calibrate(500, 5); // allow for the IMU to settle, throw away cal
+    while(1) imu_calibrate(2000, 5);
+I (2257) imu:  gyro bias: 74 -491 111 counts
+I (10747) imu: gyro bias: 121 -443 74 counts
+I (19237) imu: gyro bias: 121 -443 74 counts
+I (27737) imu: gyro bias: 121 -443 74 counts
+I (36227) imu: gyro bias: 121 -443 75 counts
+I (44717) imu: gyro bias: 121 -443 75 counts
+I (53207) imu: gyro bias: 122 -442 73 counts
+I (61697) imu: gyro bias: 121 -443 73 counts
+
+    imu_calibrate(100, 5); // allow for the IMU to settle, throw away cal
+    while(1) imu_calibrate(2000, 5);
+I (557) imu:   gyro bias: -117 -655 246 counts
+I (9047) imu:  gyro bias: 121 -443 75 counts
+I (17547) imu: gyro bias: 120 -443 75 counts
+I (26037) imu: gyro bias: 120 -443 75 counts
+I (34527) imu: gyro bias: 120 -443 75 counts
+I (43017) imu: gyro bias: 120 -443 75 counts
+I (51507) imu: gyro bias: 119 -443 76 counts
+I (59997) imu: gyro bias: 118 -443 79 counts
+I (68487) imu: gyro bias: 118 -443 78 counts
+
+    imu_calibrate(50, 1); // allow for the IMU to settle, throw away cal
+    while(1) imu_calibrate(2000, 5);
+I (347) imu: gyro bias: -289 -950 444 counts
+I (8837) imu: gyro bias: 121 -442 74 counts
+I (17327) imu: gyro bias: 121 -442 74 counts
+I (25827) imu: gyro bias: 121 -442 74 counts
+I (34317) imu: gyro bias: 120 -442 75 counts
+I (42807) imu: gyro bias: 120 -442 76 counts
+I (51297) imu: gyro bias: 120 -443 75 counts
+I (59787) imu: gyro bias: 120 -442 75 counts
+I (68277) imu: gyro bias: 120 -443 75 counts
+I (76767) imu: gyro bias: 121 -443 75 counts
+I (85267) imu: gyro bias: 121 -442 74 counts
+I (93757) imu: gyro bias: 120 -443 76 counts
+I (102247) imu: gyro bias: 120 -443 76 counts
+I (110737) imu: gyro bias: 119 -443 77 counts
+I (119227) imu: gyro bias: 120 -443 75 counts
+I (127717) imu: gyro bias: 120 -442 75 counts
+I (76767) imu: gyro bias: 121 -443 75 counts
+
+
+So we just need to throw away the first few samples, with minimal pause

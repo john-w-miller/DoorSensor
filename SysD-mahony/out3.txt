@@ -1,0 +1,1033 @@
+I (83176) APP_MAIN: =================================
+I (84176) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12127  Y=-10898  Z=   713
+I (84176) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   153  Y=  -456  Z=   117
+I (84176) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 12000  Z=   688
+I (84176) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -609  Z=   111
+I (84176) APP_MAIN: LSM6DS3TR Temp [raw]:     -63
+I (84176) APP_MAIN: ---------------
+I (84186) APP_MAIN: Accel [comp]:  X=0.001  Y=-0.000  Z=0.993
+I (84186) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.002  Z=-0.003
+I (84186) APP_MAIN: Accel [comp]: X=-0.004  Y=-0.002  Z=1.005
+I (84186) APP_MAIN: Mag   [comp]: X=0.176  Y=0.442  Z=-0.842
+I (84186) APP_MAIN: Temp  [comp]:  21.06
+I (84186) APP_MAIN: =================================
+I (85186) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12082  Y=-10929  Z=   722
+I (85186) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -452  Z=   119
+I (85186) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11888  Z=   688
+I (85186) APP_MAIN: LSM303AGR Mag   [raw]: X=  -184  Y=  -609  Z=   111
+I (85186) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (85186) APP_MAIN: ---------------
+I (85186) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.994
+I (85196) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.002  Z=-0.002
+I (85196) APP_MAIN: Accel [comp]: X=-0.008  Y=0.004  Z=1.002
+I (85196) APP_MAIN: Mag   [comp]: X=0.173  Y=0.440  Z=-0.846
+I (85196) APP_MAIN: Temp  [comp]:  21.00
+I (85196) APP_MAIN: =================================
+I (86196) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12081  Y=-10909  Z=   707
+I (86196) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   140  Y=  -450  Z=   119
+I (86196) APP_MAIN: LSM303AGR Accel [raw]: X= 11280  Y= 11984  Z=   720
+I (86196) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -607  Z=   115
+I (86196) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (86196) APP_MAIN: ---------------
+I (86206) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (86206) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.001
+I (86206) APP_MAIN: Accel [comp]: X=0.002  Y=-0.001  Z=1.003
+I (86206) APP_MAIN: Mag   [comp]: X=0.172  Y=0.447  Z=-0.837
+I (86206) APP_MAIN: Temp  [comp]:  21.00
+I (86206) APP_MAIN: =================================
+I (87206) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12098  Y=-10946  Z=   687
+I (87206) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   149  Y=  -457  Z=   119
+I (87206) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 12000  Z=   560
+I (87206) APP_MAIN: LSM303AGR Mag   [raw]: X=  -183  Y=  -601  Z=   114
+I (87206) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (87206) APP_MAIN: ---------------
+I (87216) APP_MAIN: Accel [comp]:  X=-0.001  Y=0.000  Z=0.994
+I (87216) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.001
+I (87216) APP_MAIN: Accel [comp]: X=0.004  Y=-0.005  Z=1.008
+I (87216) APP_MAIN: Mag   [comp]: X=0.165  Y=0.438  Z=-0.836
+I (87216) APP_MAIN: Temp  [comp]:  21.00
+I (87216) APP_MAIN: =================================
+I (88216) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12119  Y=-10911  Z=   679
+I (88216) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -449  Z=   110
+I (88216) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11968  Z=   672
+I (88216) APP_MAIN: LSM303AGR Mag   [raw]: X=  -176  Y=  -609  Z=   112
+I (88216) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (88216) APP_MAIN: ---------------
+I (88226) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.993
+I (88226) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (88226) APP_MAIN: Accel [comp]: X=-0.005  Y=0.001  Z=1.003
+I (88226) APP_MAIN: Mag   [comp]: X=0.179  Y=0.441  Z=-0.841
+I (88226) APP_MAIN: Temp  [comp]:  21.00
+I (88226) APP_MAIN: =================================
+I (89226) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12099  Y=-10916  Z=   700
+I (89226) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   149  Y=  -456  Z=   113
+I (89226) APP_MAIN: LSM303AGR Accel [raw]: X= 11424  Y= 11936  Z=   624
+I (89226) APP_MAIN: LSM303AGR Mag   [raw]: X=  -185  Y=  -608  Z=   111
+I (89226) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (89226) APP_MAIN: ---------------
+I (89236) APP_MAIN: Accel [comp]:  X=0.001  Y=-0.000  Z=0.994
+I (89236) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (89236) APP_MAIN: Accel [comp]: X=0.004  Y=0.006  Z=1.005
+I (89236) APP_MAIN: Mag   [comp]: X=0.171  Y=0.438  Z=-0.846
+I (89236) APP_MAIN: Temp  [comp]:  21.00
+I (89236) APP_MAIN: =================================
+I (90236) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12085  Y=-10909  Z=   705
+I (90236) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -456  Z=   114
+I (90236) APP_MAIN: LSM303AGR Accel [raw]: X= 11248  Y= 12016  Z=   672
+I (90236) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -610  Z=   117
+I (90236) APP_MAIN: LSM6DS3TR Temp [raw]:     -63
+I (90236) APP_MAIN: ---------------
+I (90236) APP_MAIN: Accel [comp]:  X=0.000  Y=-0.000  Z=0.994
+I (90246) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (90246) APP_MAIN: Accel [comp]: X=-0.005  Y=-0.003  Z=1.005
+I (90246) APP_MAIN: Mag   [comp]: X=0.172  Y=0.451  Z=-0.840
+I (90246) APP_MAIN: Temp  [comp]:  21.06
+I (90246) APP_MAIN: =================================
+I (91246) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12091  Y=-10902  Z=   706
+I (91246) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -456  Z=   114
+I (91246) APP_MAIN: LSM303AGR Accel [raw]: X= 11296  Y= 12016  Z=   656
+I (91246) APP_MAIN: LSM303AGR Mag   [raw]: X=  -182  Y=  -614  Z=   108
+I (91246) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (91246) APP_MAIN: ---------------
+I (91246) APP_MAIN: Accel [comp]:  X=-0.000  Y=0.000  Z=0.994
+I (91256) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (91256) APP_MAIN: Accel [comp]: X=-0.002  Y=-0.003  Z=1.007
+I (91256) APP_MAIN: Mag   [comp]: X=0.181  Y=0.441  Z=-0.849
+I (91256) APP_MAIN: Temp  [comp]:  21.06
+I (91256) APP_MAIN: =================================
+I (92256) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12117  Y=-10918  Z=   697
+I (92256) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -453  Z=   116
+I (92256) APP_MAIN: LSM303AGR Accel [raw]: X= 11232  Y= 11952  Z=   688
+I (92256) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -606  Z=   112
+I (92256) APP_MAIN: LSM6DS3TR Temp [raw]:     -63
+I (92256) APP_MAIN: ---------------
+I (92266) APP_MAIN: Accel [comp]:  X=-0.001  Y=0.000  Z=0.996
+I (92266) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (92266) APP_MAIN: Accel [comp]: X=-0.006  Y=0.001  Z=0.997
+I (92266) APP_MAIN: Mag   [comp]: X=0.175  Y=0.443  Z=-0.835
+I (92266) APP_MAIN: Temp  [comp]:  21.06
+I (92266) APP_MAIN: =================================
+I (93266) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12067  Y=-10881  Z=   659
+I (93266) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   143  Y=  -450  Z=   118
+I (93266) APP_MAIN: LSM303AGR Accel [raw]: X= 11152  Y= 12016  Z=   720
+I (93266) APP_MAIN: LSM303AGR Mag   [raw]: X=  -182  Y=  -611  Z=   114
+I (93266) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (93266) APP_MAIN: ---------------
+I (93276) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.002  Z=0.995
+I (93276) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (93276) APP_MAIN: Accel [comp]: X=-0.009  Y=0.006  Z=1.006
+I (93276) APP_MAIN: Mag   [comp]: X=0.177  Y=0.435  Z=-0.838
+I (93276) APP_MAIN: Temp  [comp]:  21.00
+I (93276) APP_MAIN: =================================
+I (94276) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12129  Y=-10912  Z=   686
+I (94276) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   142  Y=  -451  Z=   116
+I (94276) APP_MAIN: LSM303AGR Accel [raw]: X= 11456  Y= 11936  Z=   640
+I (94276) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -606  Z=   115
+I (94276) APP_MAIN: LSM6DS3TR Temp [raw]:     -63
+I (94276) APP_MAIN: ---------------
+I (94286) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.000  Z=0.995
+I (94286) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (94286) APP_MAIN: Accel [comp]: X=0.006  Y=0.004  Z=1.010
+I (94286) APP_MAIN: Mag   [comp]: X=0.170  Y=0.445  Z=-0.837
+I (94286) APP_MAIN: Temp  [comp]:  21.06
+I (94286) APP_MAIN: =================================
+I (95286) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12121  Y=-10921  Z=   679
+I (95286) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -459  Z=   115
+I (95286) APP_MAIN: LSM303AGR Accel [raw]: X= 11360  Y= 11920  Z=   720
+I (95286) APP_MAIN: LSM303AGR Mag   [raw]: X=  -183  Y=  -610  Z=   115
+I (95286) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (95286) APP_MAIN: ---------------
+I (95286) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.000  Z=0.994
+I (95296) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (95296) APP_MAIN: Accel [comp]: X=0.004  Y=0.004  Z=1.007
+I (95296) APP_MAIN: Mag   [comp]: X=0.170  Y=0.445  Z=-0.846
+I (95296) APP_MAIN: Temp  [comp]:  21.00
+I (95296) APP_MAIN: =================================
+I (96296) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12111  Y=-10921  Z=   692
+I (96296) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   139  Y=  -452  Z=   117
+I (96296) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 12016  Z=   656
+I (96296) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -613  Z=   106
+I (96296) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (96296) APP_MAIN: ---------------
+I (96306) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.994
+I (96306) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.001  Z=-0.002
+I (96306) APP_MAIN: Accel [comp]: X=-0.005  Y=-0.004  Z=1.001
+I (96306) APP_MAIN: Mag   [comp]: X=0.186  Y=0.442  Z=-0.843
+I (96306) APP_MAIN: Temp  [comp]:  20.94
+I (96306) APP_MAIN: =================================
+I (97306) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12075  Y=-10913  Z=   716
+I (97306) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   140  Y=  -453  Z=   112
+I (97306) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11856  Z=   704
+I (97306) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -606  Z=   111
+I (97306) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (97306) APP_MAIN: ---------------
+I (97316) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (97316) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (97316) APP_MAIN: Accel [comp]: X=0.001  Y=0.005  Z=1.001
+I (97316) APP_MAIN: Mag   [comp]: X=0.174  Y=0.440  Z=-0.838
+I (97316) APP_MAIN: Temp  [comp]:  20.94
+I (97316) APP_MAIN: =================================
+I (98316) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12074  Y=-10902  Z=   693
+I (98316) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   137  Y=  -454  Z=   119
+I (98316) APP_MAIN: LSM303AGR Accel [raw]: X= 11360  Y= 11952  Z=   688
+I (98316) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -610  Z=   112
+I (98316) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (98316) APP_MAIN: ---------------
+I (98326) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (98326) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (98326) APP_MAIN: Accel [comp]: X=0.002  Y=-0.002  Z=1.010
+I (98326) APP_MAIN: Mag   [comp]: X=0.178  Y=0.434  Z=-0.842
+I (98326) APP_MAIN: Temp  [comp]:  21.00
+I (98326) APP_MAIN: =================================
+I (99326) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12121  Y=-10918  Z=   692
+I (99326) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   139  Y=  -453  Z=   115
+I (99326) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11872  Z=   736
+I (99326) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -607  Z=   118
+I (99326) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (99326) APP_MAIN: ---------------
+I (99336) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.996
+I (99336) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.001  Z=-0.001
+I (99336) APP_MAIN: Accel [comp]: X=-0.004  Y=0.001  Z=1.000
+I (99336) APP_MAIN: Mag   [comp]: X=0.168  Y=0.449  Z=-0.838
+I (99336) APP_MAIN: Temp  [comp]:  20.94
+I (99336) APP_MAIN: =================================
+I (100336) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12104  Y=-10924  Z=   701
+I (100336) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -456  Z=   108
+I (100336) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11952  Z=   688
+I (100336) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -606  Z=   106
+I (100336) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (100336) APP_MAIN: ---------------
+I (100346) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.000  Z=0.996
+I (100346) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.003  Z=-0.002
+I (100346) APP_MAIN: Accel [comp]: X=-0.003  Y=-0.000  Z=1.003
+I (100346) APP_MAIN: Mag   [comp]: X=0.181  Y=0.436  Z=-0.837
+I (100346) APP_MAIN: Temp  [comp]:  20.94
+I (100346) APP_MAIN: =================================
+I (101346) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12107  Y=-10918  Z=   687
+I (101346) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   142  Y=  -457  Z=   115
+I (101346) APP_MAIN: LSM303AGR Accel [raw]: X= 11280  Y= 11888  Z=   656
+I (101346) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -612  Z=   108
+I (101346) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (101346) APP_MAIN: ---------------
+I (101346) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (101356) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.001
+I (101356) APP_MAIN: Accel [comp]: X=0.001  Y=-0.004  Z=1.007
+I (101356) APP_MAIN: Mag   [comp]: X=0.179  Y=0.445  Z=-0.844
+I (101356) APP_MAIN: Temp  [comp]:  20.94
+I (101356) APP_MAIN: =================================
+I (102356) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12094  Y=-10918  Z=   692
+I (102356) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   139  Y=  -450  Z=   116
+I (102356) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11952  Z=   752
+I (102356) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -608  Z=   112
+I (102356) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (102356) APP_MAIN: ---------------
+I (102366) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.994
+I (102366) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.001  Z=-0.002
+I (102366) APP_MAIN: Accel [comp]: X=-0.002  Y=0.003  Z=1.006
+I (102366) APP_MAIN: Mag   [comp]: X=0.174  Y=0.443  Z=-0.841
+I (102366) APP_MAIN: Temp  [comp]:  21.00
+I (102366) APP_MAIN: =================================
+I (103366) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12088  Y=-10918  Z=   705
+I (103366) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   149  Y=  -453  Z=   112
+I (103366) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11936  Z=   656
+I (103366) APP_MAIN: LSM303AGR Mag   [raw]: X=  -183  Y=  -610  Z=   108
+I (103366) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (103366) APP_MAIN: ---------------
+I (103376) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.995
+I (103376) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (103376) APP_MAIN: Accel [comp]: X=-0.001  Y=-0.001  Z=1.002
+I (103376) APP_MAIN: Mag   [comp]: X=0.174  Y=0.433  Z=-0.847
+I (103376) APP_MAIN: Temp  [comp]:  21.00
+I (103376) APP_MAIN: =================================
+I (104376) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12057  Y=-10905  Z=   710
+I (104376) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   151  Y=  -460  Z=   110
+I (104376) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11872  Z=   736
+I (104376) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -608  Z=   116
+I (104376) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (104376) APP_MAIN: ---------------
+I (104386) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.996
+I (104386) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.004  Z=-0.002
+I (104386) APP_MAIN: Accel [comp]: X=0.000  Y=0.007  Z=1.003
+I (104386) APP_MAIN: Mag   [comp]: X=0.171  Y=0.448  Z=-0.839
+I (104386) APP_MAIN: Temp  [comp]:  20.94
+I (104386) APP_MAIN: =================================
+I (105386) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12099  Y=-10919  Z=   692
+I (105386) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -453  Z=   114
+I (105386) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11968  Z=   640
+I (105386) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -608  Z=   114
+I (105386) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (105386) APP_MAIN: ---------------
+I (105386) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (105396) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (105396) APP_MAIN: Accel [comp]: X=0.001  Y=-0.001  Z=1.005
+I (105396) APP_MAIN: Mag   [comp]: X=0.175  Y=0.447  Z=-0.837
+I (105396) APP_MAIN: Temp  [comp]:  20.94
+I (105396) APP_MAIN: =================================
+I (106396) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12123  Y=-10937  Z=   664
+I (106396) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -454  Z=   113
+I (106396) APP_MAIN: LSM303AGR Accel [raw]: X= 11296  Y= 11920  Z=   736
+I (106396) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -610  Z=   117
+I (106396) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (106396) APP_MAIN: ---------------
+I (106396) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.995
+I (106406) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.002  Z=-0.002
+I (106406) APP_MAIN: Accel [comp]: X=-0.003  Y=0.004  Z=1.003
+I (106406) APP_MAIN: Mag   [comp]: X=0.174  Y=0.437  Z=-0.836
+I (106406) APP_MAIN: Temp  [comp]:  21.00
+I (106406) APP_MAIN: =================================
+I (107406) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12118  Y=-10924  Z=   688
+I (107406) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -452  Z=   113
+I (107406) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11920  Z=   720
+I (107406) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -608  Z=   115
+I (107406) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (107406) APP_MAIN: ---------------
+I (107406) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.996
+I (107416) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (107416) APP_MAIN: Accel [comp]: X=-0.003  Y=0.002  Z=1.001
+I (107416) APP_MAIN: Mag   [comp]: X=0.170  Y=0.445  Z=-0.841
+I (107416) APP_MAIN: Temp  [comp]:  21.00
+I (107416) APP_MAIN: =================================
+I (108416) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12096  Y=-10901  Z=   700
+I (108416) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -458  Z=   113
+I (108416) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11984  Z=   672
+I (108416) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -603  Z=   117
+I (108416) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (108416) APP_MAIN: ---------------
+I (108426) APP_MAIN: Accel [comp]:  X=-0.001  Y=0.000  Z=0.994
+I (108426) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.003  Z=-0.002
+I (108426) APP_MAIN: Accel [comp]: X=-0.003  Y=-0.001  Z=1.005
+I (108426) APP_MAIN: Mag   [comp]: X=0.182  Y=0.451  Z=-0.844
+I (108426) APP_MAIN: Temp  [comp]:  21.00
+I (108426) APP_MAIN: =================================
+I (109426) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12094  Y=-10889  Z=   697
+I (109426) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   138  Y=  -448  Z=   111
+I (109426) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 12016  Z=   688
+I (109426) APP_MAIN: LSM303AGR Mag   [raw]: X=  -183  Y=  -614  Z=   112
+I (109426) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (109426) APP_MAIN: ---------------
+I (109436) APP_MAIN: Accel [comp]:  X=-0.001  Y=0.000  Z=0.994
+I (109436) APP_MAIN: Gyro  [comp]:  X=-0.002  Y=-0.001  Z=-0.002
+I (109436) APP_MAIN: Accel [comp]: X=-0.003  Y=0.000  Z=1.008
+I (109436) APP_MAIN: Mag   [comp]: X=0.176  Y=0.445  Z=-0.850
+I (109436) APP_MAIN: Temp  [comp]:  21.00
+I (109436) APP_MAIN: =================================
+I (110436) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12093  Y=-10903  Z=   694
+I (110436) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -450  Z=   116
+I (110436) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11952  Z=   656
+I (110436) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -606  Z=   111
+I (110436) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (110436) APP_MAIN: ---------------
+I (110446) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.994
+I (110446) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.003
+I (110446) APP_MAIN: Accel [comp]: X=0.001  Y=0.001  Z=1.006
+I (110446) APP_MAIN: Mag   [comp]: X=0.173  Y=0.439  Z=-0.839
+I (110446) APP_MAIN: Temp  [comp]:  20.94
+I (110446) APP_MAIN: =================================
+I (111446) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12075  Y=-10918  Z=   704
+I (111446) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   148  Y=  -456  Z=   120
+I (111446) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11968  Z=   624
+I (111446) APP_MAIN: LSM303AGR Mag   [raw]: X=  -174  Y=  -611  Z=   117
+I (111446) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (111446) APP_MAIN: ---------------
+I (111456) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (111456) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.002  Z=-0.002
+I (111456) APP_MAIN: Accel [comp]: X=0.001  Y=0.002  Z=1.007
+I (111456) APP_MAIN: Mag   [comp]: X=0.176  Y=0.445  Z=-0.844
+I (111456) APP_MAIN: Temp  [comp]:  21.00
+I (111456) APP_MAIN: =================================
+I (112456) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12080  Y=-10916  Z=   693
+I (112456) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   138  Y=  -453  Z=   121
+I (112456) APP_MAIN: LSM303AGR Accel [raw]: X= 11248  Y= 12016  Z=   640
+I (112456) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -611  Z=   111
+I (112456) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (112456) APP_MAIN: ---------------
+I (112466) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (112466) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (112466) APP_MAIN: Accel [comp]: X=0.002  Y=-0.004  Z=1.005
+I (112466) APP_MAIN: Mag   [comp]: X=0.178  Y=0.445  Z=-0.843
+I (112466) APP_MAIN: Temp  [comp]:  20.94
+I (112466) APP_MAIN: =================================
+I (113466) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12105  Y=-10910  Z=   680
+I (113466) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   139  Y=  -457  Z=   118
+I (113466) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 12000  Z=   688
+I (113466) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -605  Z=   110
+I (113466) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (113466) APP_MAIN: ---------------
+I (113476) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.996
+I (113476) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.001  Z=-0.002
+I (113476) APP_MAIN: Accel [comp]: X=-0.004  Y=-0.002  Z=1.005
+I (113476) APP_MAIN: Mag   [comp]: X=0.175  Y=0.439  Z=-0.836
+I (113476) APP_MAIN: Temp  [comp]:  21.00
+I (113476) APP_MAIN: =================================
+I (114476) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12115  Y=-10931  Z=   674
+I (114476) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   142  Y=  -454  Z=   111
+I (114476) APP_MAIN: LSM303AGR Accel [raw]: X= 11376  Y= 11968  Z=   720
+I (114476) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -611  Z=   115
+I (114476) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (114476) APP_MAIN: ---------------
+I (114486) APP_MAIN: Accel [comp]:  X=0.000  Y=-0.000  Z=0.994
+I (114486) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.001  Z=-0.002
+I (114486) APP_MAIN: Accel [comp]: X=-0.006  Y=0.003  Z=1.007
+I (114486) APP_MAIN: Mag   [comp]: X=0.169  Y=0.446  Z=-0.836
+I (114486) APP_MAIN: Temp  [comp]:  20.94
+I (114486) APP_MAIN: =================================
+I (115486) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12113  Y=-10931  Z=   697
+I (115486) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   141  Y=  -448  Z=   112
+I (115486) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11952  Z=   656
+I (115486) APP_MAIN: LSM303AGR Mag   [raw]: X=  -183  Y=  -610  Z=   116
+I (115486) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (115486) APP_MAIN: ---------------
+I (115496) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.994
+I (115496) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.001
+I (115496) APP_MAIN: Accel [comp]: X=0.001  Y=-0.005  Z=1.005
+I (115496) APP_MAIN: Mag   [comp]: X=0.169  Y=0.446  Z=-0.846
+I (115496) APP_MAIN: Temp  [comp]:  20.94
+I (115496) APP_MAIN: =================================
+I (116496) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12088  Y=-10898  Z=   699
+I (116496) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   139  Y=  -453  Z=   120
+I (116496) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 12000  Z=   752
+I (116496) APP_MAIN: LSM303AGR Mag   [raw]: X=  -185  Y=  -603  Z=   113
+I (116496) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (116496) APP_MAIN: ---------------
+I (116506) APP_MAIN: Accel [comp]:  X=-0.001  Y=0.000  Z=0.994
+I (116506) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.001  Z=-0.002
+I (116506) APP_MAIN: Accel [comp]: X=-0.005  Y=0.003  Z=1.008
+I (116506) APP_MAIN: Mag   [comp]: X=0.174  Y=0.440  Z=-0.843
+I (116506) APP_MAIN: Temp  [comp]:  20.94
+I (116506) APP_MAIN: =================================
+I (117506) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12088  Y=-10904  Z=   706
+I (117506) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -456  Z=   115
+I (117506) APP_MAIN: LSM303AGR Accel [raw]: X= 11376  Y= 11952  Z=   688
+I (117506) APP_MAIN: LSM303AGR Mag   [raw]: X=  -182  Y=  -608  Z=   109
+I (117506) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (117506) APP_MAIN: ---------------
+I (117516) APP_MAIN: Accel [comp]:  X=-0.000  Y=0.000  Z=0.994
+I (117516) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (117516) APP_MAIN: Accel [comp]: X=0.001  Y=0.003  Z=1.007
+I (117516) APP_MAIN: Mag   [comp]: X=0.176  Y=0.438  Z=-0.843
+I (117516) APP_MAIN: Temp  [comp]:  21.00
+I (117516) APP_MAIN: =================================
+I (118516) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12113  Y=-10919  Z=   686
+I (118516) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -456  Z=   114
+I (118516) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11984  Z=   688
+I (118516) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -604  Z=   112
+I (118516) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (118516) APP_MAIN: ---------------
+I (118526) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (118526) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (118526) APP_MAIN: Accel [comp]: X=0.002  Y=-0.001  Z=1.011
+I (118526) APP_MAIN: Mag   [comp]: X=0.171  Y=0.440  Z=-0.836
+I (118526) APP_MAIN: Temp  [comp]:  20.94
+I (118526) APP_MAIN: =================================
+I (119526) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12073  Y=-10893  Z=   676
+I (119526) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -454  Z=   117
+I (119526) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11968  Z=   656
+I (119526) APP_MAIN: LSM303AGR Mag   [raw]: X=  -176  Y=  -605  Z=   111
+I (119526) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (119526) APP_MAIN: ---------------
+I (119526) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (119536) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (119536) APP_MAIN: Accel [comp]: X=-0.000  Y=-0.001  Z=1.005
+I (119536) APP_MAIN: Mag   [comp]: X=0.176  Y=0.441  Z=-0.836
+I (119536) APP_MAIN: Temp  [comp]:  20.94
+I (119536) APP_MAIN: =================================
+I (120536) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12092  Y=-10908  Z=   677
+I (120536) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   139  Y=  -453  Z=   121
+I (120536) APP_MAIN: LSM303AGR Accel [raw]: X= 11248  Y= 11936  Z=   784
+I (120536) APP_MAIN: LSM303AGR Mag   [raw]: X=  -182  Y=  -606  Z=   107
+I (120536) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (120536) APP_MAIN: ---------------
+I (120546) APP_MAIN: Accel [comp]:  X=0.000  Y=0.000  Z=0.996
+I (120546) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (120546) APP_MAIN: Accel [comp]: X=-0.007  Y=0.004  Z=1.002
+I (120546) APP_MAIN: Mag   [comp]: X=0.176  Y=0.434  Z=-0.841
+I (120546) APP_MAIN: Temp  [comp]:  21.00
+I (120546) APP_MAIN: =================================
+I (121546) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12103  Y=-10922  Z=   677
+I (121546) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   143  Y=  -451  Z=   115
+I (121546) APP_MAIN: LSM303AGR Accel [raw]: X= 11296  Y= 11920  Z=   688
+I (121546) APP_MAIN: LSM303AGR Mag   [raw]: X=  -183  Y=  -605  Z=   109
+I (121546) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (121546) APP_MAIN: ---------------
+I (121556) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.994
+I (121556) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (121556) APP_MAIN: Accel [comp]: X=0.003  Y=0.003  Z=1.006
+I (121556) APP_MAIN: Mag   [comp]: X=0.177  Y=0.441  Z=-0.844
+I (121556) APP_MAIN: Temp  [comp]:  20.94
+I (121556) APP_MAIN: =================================
+I (122556) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12101  Y=-10931  Z=   678
+I (122556) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   148  Y=  -457  Z=   115
+I (122556) APP_MAIN: LSM303AGR Accel [raw]: X= 11376  Y= 11984  Z=   640
+I (122556) APP_MAIN: LSM303AGR Mag   [raw]: X=  -175  Y=  -606  Z=   106
+I (122556) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (122556) APP_MAIN: ---------------
+I (122566) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.994
+I (122566) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.002  Z=-0.002
+I (122566) APP_MAIN: Accel [comp]: X=0.002  Y=-0.000  Z=1.009
+I (122566) APP_MAIN: Mag   [comp]: X=0.183  Y=0.438  Z=-0.834
+I (122566) APP_MAIN: Temp  [comp]:  20.94
+I (122566) APP_MAIN: =================================
+I (123566) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12090  Y=-10921  Z=   719
+I (123566) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -451  Z=   121
+I (123566) APP_MAIN: LSM303AGR Accel [raw]: X= 11360  Y= 11872  Z=   528
+I (123566) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -611  Z=   111
+I (123566) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (123566) APP_MAIN: ---------------
+I (123576) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.996
+I (123576) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (123576) APP_MAIN: Accel [comp]: X=0.009  Y=-0.002  Z=1.003
+I (123576) APP_MAIN: Mag   [comp]: X=0.179  Y=0.445  Z=-0.842
+I (123576) APP_MAIN: Temp  [comp]:  20.94
+I (123576) APP_MAIN: =================================
+I (124576) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12086  Y=-10889  Z=   709
+I (124576) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   143  Y=  -451  Z=   118
+I (124576) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11936  Z=   608
+I (124576) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -607  Z=   115
+I (124576) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (124576) APP_MAIN: ---------------
+I (124586) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (124586) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (124586) APP_MAIN: Accel [comp]: X=-0.002  Y=-0.003  Z=1.000
+I (124586) APP_MAIN: Mag   [comp]: X=0.177  Y=0.439  Z=-0.835
+I (124586) APP_MAIN: Temp  [comp]:  20.94
+I (124586) APP_MAIN: =================================
+I (125586) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12094  Y=-10907  Z=   671
+I (125586) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -456  Z=   115
+I (125586) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11920  Z=   656
+I (125586) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -603  Z=   114
+I (125586) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (125586) APP_MAIN: ---------------
+I (125586) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.001  Z=0.994
+I (125596) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (125596) APP_MAIN: Accel [comp]: X=-0.002  Y=0.002  Z=1.003
+I (125596) APP_MAIN: Mag   [comp]: X=0.171  Y=0.443  Z=-0.832
+I (125596) APP_MAIN: Temp  [comp]:  20.94
+I (125596) APP_MAIN: =================================
+I (126596) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12123  Y=-10935  Z=   675
+I (126596) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -449  Z=   116
+I (126596) APP_MAIN: LSM303AGR Accel [raw]: X= 11392  Y= 11904  Z=   688
+I (126596) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -610  Z=   114
+I (126596) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (126596) APP_MAIN: ---------------
+I (126596) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.001  Z=0.997
+I (126606) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.003
+I (126606) APP_MAIN: Accel [comp]: X=0.003  Y=0.005  Z=1.006
+I (126606) APP_MAIN: Mag   [comp]: X=0.175  Y=0.448  Z=-0.841
+I (126606) APP_MAIN: Temp  [comp]:  20.94
+I (126606) APP_MAIN: =================================
+I (127606) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12105  Y=-10949  Z=   705
+I (127606) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -449  Z=   111
+I (127606) APP_MAIN: LSM303AGR Accel [raw]: X= 11280  Y= 11984  Z=   720
+I (127606) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -608  Z=   115
+I (127606) APP_MAIN: LSM6DS3TR Temp [raw]:     -64
+I (127606) APP_MAIN: ---------------
+I (127616) APP_MAIN: Accel [comp]:  X=0.001  Y=-0.001  Z=0.997
+I (127616) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (127616) APP_MAIN: Accel [comp]: X=-0.003  Y=-0.001  Z=1.005
+I (127616) APP_MAIN: Mag   [comp]: X=0.171  Y=0.446  Z=-0.840
+I (127616) APP_MAIN: Temp  [comp]:  20.94
+I (127616) APP_MAIN: =================================
+I (128616) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12113  Y=-10920  Z=   662
+I (128616) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   141  Y=  -451  Z=   115
+I (128616) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11936  Z=   752
+I (128616) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -607  Z=   117
+I (128616) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (128616) APP_MAIN: ---------------
+I (128626) APP_MAIN: Accel [comp]:  X=0.001  Y=-0.001  Z=0.993
+I (128626) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.001  Z=-0.002
+I (128626) APP_MAIN: Accel [comp]: X=-0.007  Y=0.006  Z=1.003
+I (128626) APP_MAIN: Mag   [comp]: X=0.170  Y=0.449  Z=-0.837
+I (128626) APP_MAIN: Temp  [comp]:  20.94
+I (128626) APP_MAIN: =================================
+I (129626) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12101  Y=-10920  Z=   665
+I (129626) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -455  Z=   116
+I (129626) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 12016  Z=   720
+I (129626) APP_MAIN: LSM303AGR Mag   [raw]: X=  -175  Y=  -605  Z=   107
+I (129626) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (129626) APP_MAIN: ---------------
+I (129636) APP_MAIN: Accel [comp]:  X=-0.001  Y=0.000  Z=0.991
+I (129636) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.001  Z=-0.002
+I (129636) APP_MAIN: Accel [comp]: X=-0.003  Y=0.002  Z=1.009
+I (129636) APP_MAIN: Mag   [comp]: X=0.174  Y=0.437  Z=-0.838
+I (129636) APP_MAIN: Temp  [comp]:  20.94
+I (129636) APP_MAIN: =================================
+I (130636) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12085  Y=-10913  Z=   709
+I (130636) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -462  Z=   112
+I (130636) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11936  Z=   624
+I (130636) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -607  Z=   113
+I (130636) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (130636) APP_MAIN: ---------------
+I (130646) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.995
+I (130646) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (130646) APP_MAIN: Accel [comp]: X=0.001  Y=0.000  Z=1.005
+I (130646) APP_MAIN: Mag   [comp]: X=0.173  Y=0.444  Z=-0.838
+I (130646) APP_MAIN: Temp  [comp]:  20.94
+I (130646) APP_MAIN: =================================
+I (131646) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12074  Y=-10900  Z=   708
+I (131646) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -455  Z=   115
+I (131646) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11968  Z=   640
+I (131646) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -603  Z=   115
+I (131646) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (131646) APP_MAIN: ---------------
+I (131656) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (131656) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (131656) APP_MAIN: Accel [comp]: X=-0.005  Y=0.004  Z=1.001
+I (131656) APP_MAIN: Mag   [comp]: X=0.167  Y=0.442  Z=-0.835
+I (131656) APP_MAIN: Temp  [comp]:  20.94
+I (131656) APP_MAIN: =================================
+I (132656) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12100  Y=-10914  Z=   676
+I (132656) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   148  Y=  -449  Z=   111
+I (132656) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11936  Z=   672
+I (132656) APP_MAIN: LSM303AGR Mag   [raw]: X=  -176  Y=  -606  Z=   111
+I (132656) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (132656) APP_MAIN: ---------------
+I (132666) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (132666) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.003  Z=-0.002
+I (132666) APP_MAIN: Accel [comp]: X=-0.000  Y=0.001  Z=1.004
+I (132666) APP_MAIN: Mag   [comp]: X=0.169  Y=0.438  Z=-0.847
+I (132666) APP_MAIN: Temp  [comp]:  20.94
+I (132666) APP_MAIN: =================================
+I (133666) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12109  Y=-10934  Z=   682
+I (133666) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   142  Y=  -460  Z=   114
+I (133666) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11984  Z=   672
+I (133666) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -613  Z=   115
+I (133666) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (133666) APP_MAIN: ---------------
+I (133676) APP_MAIN: Accel [comp]:  X=0.000  Y=-0.000  Z=0.996
+I (133676) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.001
+I (133676) APP_MAIN: Accel [comp]: X=-0.006  Y=0.001  Z=1.002
+I (133676) APP_MAIN: Mag   [comp]: X=0.175  Y=0.450  Z=-0.846
+I (133676) APP_MAIN: Temp  [comp]:  20.94
+I (133676) APP_MAIN: =================================
+I (134676) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12102  Y=-10936  Z=   685
+I (134676) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   147  Y=  -453  Z=   115
+I (134676) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 12000  Z=   672
+I (134676) APP_MAIN: LSM303AGR Mag   [raw]: X=  -184  Y=  -605  Z=   109
+I (134676) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (134676) APP_MAIN: ---------------
+I (134676) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.996
+I (134686) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (134686) APP_MAIN: Accel [comp]: X=-0.000  Y=0.004  Z=1.010
+I (134686) APP_MAIN: Mag   [comp]: X=0.167  Y=0.440  Z=-0.841
+I (134686) APP_MAIN: Temp  [comp]:  20.94
+I (134686) APP_MAIN: =================================
+I (135686) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12087  Y=-10921  Z=   686
+I (135686) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   142  Y=  -453  Z=   113
+I (135686) APP_MAIN: LSM303AGR Accel [raw]: X= 11296  Y= 11984  Z=   736
+I (135686) APP_MAIN: LSM303AGR Mag   [raw]: X=  -171  Y=  -613  Z=   109
+I (135686) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (135686) APP_MAIN: ---------------
+I (135696) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.995
+I (135696) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (135696) APP_MAIN: Accel [comp]: X=-0.005  Y=0.002  Z=1.006
+I (135696) APP_MAIN: Mag   [comp]: X=0.188  Y=0.450  Z=-0.837
+I (135696) APP_MAIN: Temp  [comp]:  20.94
+I (135696) APP_MAIN: =================================
+I (136696) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12056  Y=-10908  Z=   706
+I (136696) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -453  Z=   119
+I (136696) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11968  Z=   656
+I (136696) APP_MAIN: LSM303AGR Mag   [raw]: X=  -176  Y=  -606  Z=   115
+I (136696) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (136696) APP_MAIN: ---------------
+I (136696) APP_MAIN: Accel [comp]:  X=0.001  Y=-0.001  Z=0.993
+I (136706) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.001  Z=-0.002
+I (136706) APP_MAIN: Accel [comp]: X=-0.003  Y=0.002  Z=1.007
+I (136706) APP_MAIN: Mag   [comp]: X=0.173  Y=0.447  Z=-0.834
+I (136706) APP_MAIN: Temp  [comp]:  20.94
+I (136706) APP_MAIN: =================================
+I (137706) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12090  Y=-10917  Z=   687
+I (137706) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -452  Z=   111
+I (137706) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11984  Z=   720
+I (137706) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -602  Z=   113
+I (137706) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (137706) APP_MAIN: ---------------
+I (137716) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (137716) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (137716) APP_MAIN: Accel [comp]: X=-0.002  Y=0.006  Z=1.005
+I (137716) APP_MAIN: Mag   [comp]: X=0.171  Y=0.432  Z=-0.844
+I (137716) APP_MAIN: Temp  [comp]:  20.94
+I (137716) APP_MAIN: =================================
+I (138716) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12086  Y=-10896  Z=   706
+I (138716) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   138  Y=  -452  Z=   119
+I (138716) APP_MAIN: LSM303AGR Accel [raw]: X= 11392  Y= 11984  Z=   688
+I (138716) APP_MAIN: LSM303AGR Mag   [raw]: X=  -182  Y=  -610  Z=   109
+I (138716) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (138716) APP_MAIN: ---------------
+I (138726) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.001  Z=0.996
+I (138726) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.003  Z=-0.002
+I (138726) APP_MAIN: Accel [comp]: X=0.001  Y=0.003  Z=1.009
+I (138726) APP_MAIN: Mag   [comp]: X=0.177  Y=0.440  Z=-0.845
+I (138726) APP_MAIN: Temp  [comp]:  20.94
+I (138726) APP_MAIN: =================================
+I (139726) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12105  Y=-10901  Z=   692
+I (139726) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   140  Y=  -451  Z=   109
+I (139726) APP_MAIN: LSM303AGR Accel [raw]: X= 11376  Y= 11904  Z=   624
+I (139726) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -605  Z=   113
+I (139726) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (139726) APP_MAIN: ---------------
+I (139736) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (139736) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (139736) APP_MAIN: Accel [comp]: X=0.004  Y=0.000  Z=1.006
+I (139736) APP_MAIN: Mag   [comp]: X=0.171  Y=0.442  Z=-0.837
+I (139736) APP_MAIN: Temp  [comp]:  20.94
+I (139736) APP_MAIN: =================================
+I (140736) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12114  Y=-10926  Z=   681
+I (140736) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   137  Y=  -455  Z=   119
+I (140736) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11936  Z=   688
+I (140736) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -612  Z=   115
+I (140736) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (140736) APP_MAIN: ---------------
+I (140746) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.995
+I (140746) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.001
+I (140746) APP_MAIN: Accel [comp]: X=0.002  Y=0.003  Z=1.005
+I (140746) APP_MAIN: Mag   [comp]: X=0.175  Y=0.450  Z=-0.844
+I (140746) APP_MAIN: Temp  [comp]:  20.94
+I (140746) APP_MAIN: =================================
+I (141746) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12107  Y=-10917  Z=   675
+I (141746) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   141  Y=  -453  Z=   113
+I (141746) APP_MAIN: LSM303AGR Accel [raw]: X= 11408  Y= 11952  Z=   640
+I (141746) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -609  Z=   118
+I (141746) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (141746) APP_MAIN: ---------------
+I (141746) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.994
+I (141756) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (141756) APP_MAIN: Accel [comp]: X=0.004  Y=0.002  Z=1.009
+I (141756) APP_MAIN: Mag   [comp]: X=0.169  Y=0.450  Z=-0.841
+I (141756) APP_MAIN: Temp  [comp]:  20.94
+I (141756) APP_MAIN: =================================
+I (142756) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12094  Y=-10921  Z=   694
+I (142756) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -455  Z=   118
+I (142756) APP_MAIN: LSM303AGR Accel [raw]: X= 11280  Y= 11968  Z=   576
+I (142756) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -609  Z=   115
+I (142756) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (142756) APP_MAIN: ---------------
+I (142766) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.995
+I (142766) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (142766) APP_MAIN: Accel [comp]: X=0.002  Y=-0.005  Z=1.004
+I (142766) APP_MAIN: Mag   [comp]: X=0.171  Y=0.442  Z=-0.843
+I (142766) APP_MAIN: Temp  [comp]:  20.94
+I (142766) APP_MAIN: =================================
+I (143766) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12073  Y=-10961  Z=   698
+I (143766) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   137  Y=  -451  Z=   118
+I (143766) APP_MAIN: LSM303AGR Accel [raw]: X= 11360  Y= 11920  Z=   720
+I (143766) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -610  Z=   115
+I (143766) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (143766) APP_MAIN: ---------------
+I (143766) APP_MAIN: Accel [comp]:  X=0.002  Y=-0.003  Z=0.996
+I (143776) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.001  Z=-0.001
+I (143776) APP_MAIN: Accel [comp]: X=-0.004  Y=0.002  Z=1.003
+I (143776) APP_MAIN: Mag   [comp]: X=0.172  Y=0.447  Z=-0.844
+I (143776) APP_MAIN: Temp  [comp]:  20.94
+I (143776) APP_MAIN: =================================
+I (144776) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12091  Y=-10905  Z=   680
+I (144776) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -455  Z=   112
+I (144776) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11920  Z=   704
+I (144776) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -602  Z=   113
+I (144776) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (144776) APP_MAIN: ---------------
+I (144776) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.994
+I (144786) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (144786) APP_MAIN: Accel [comp]: X=-0.000  Y=0.003  Z=1.004
+I (144786) APP_MAIN: Mag   [comp]: X=0.171  Y=0.442  Z=-0.831
+I (144786) APP_MAIN: Temp  [comp]:  20.94
+I (144786) APP_MAIN: =================================
+I (145786) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12113  Y=-10913  Z=   680
+I (145786) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -451  Z=   117
+I (145786) APP_MAIN: LSM303AGR Accel [raw]: X= 11296  Y= 12000  Z=   576
+I (145786) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -609  Z=   112
+I (145786) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (145786) APP_MAIN: ---------------
+I (145796) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.001  Z=0.995
+I (145796) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (145796) APP_MAIN: Accel [comp]: X=0.002  Y=-0.006  Z=1.006
+I (145796) APP_MAIN: Mag   [comp]: X=0.176  Y=0.449  Z=-0.839
+I (145796) APP_MAIN: Temp  [comp]:  20.94
+I (145796) APP_MAIN: =================================
+I (146796) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12082  Y=-10891  Z=   673
+I (146796) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   142  Y=  -455  Z=   110
+I (146796) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11936  Z=   640
+I (146796) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -604  Z=   109
+I (146796) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (146796) APP_MAIN: ---------------
+I (146796) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.002  Z=0.997
+I (146806) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.003  Z=-0.002
+I (146806) APP_MAIN: Accel [comp]: X=-0.001  Y=0.001  Z=1.003
+I (146806) APP_MAIN: Mag   [comp]: X=0.174  Y=0.436  Z=-0.837
+I (146806) APP_MAIN: Temp  [comp]:  20.94
+I (146806) APP_MAIN: =================================
+I (147806) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12103  Y=-10908  Z=   658
+I (147806) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   140  Y=  -454  Z=   124
+I (147806) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11968  Z=   672
+I (147806) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -607  Z=   112
+I (147806) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (147806) APP_MAIN: ---------------
+I (147806) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.003  Z=0.995
+I (147816) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.001  Z=-0.001
+I (147816) APP_MAIN: Accel [comp]: X=-0.000  Y=0.000  Z=1.006
+I (147816) APP_MAIN: Mag   [comp]: X=0.177  Y=0.438  Z=-0.842
+I (147816) APP_MAIN: Temp  [comp]:  20.88
+I (147816) APP_MAIN: =================================
+I (148816) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12113  Y=-10933  Z=   645
+I (148816) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -454  Z=   116
+I (148816) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11904  Z=   656
+I (148816) APP_MAIN: LSM303AGR Mag   [raw]: X=  -176  Y=  -613  Z=   114
+I (148816) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (148816) APP_MAIN: ---------------
+I (148826) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.003  Z=0.994
+I (148826) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (148826) APP_MAIN: Accel [comp]: X=0.002  Y=0.001  Z=1.003
+I (148826) APP_MAIN: Mag   [comp]: X=0.179  Y=0.452  Z=-0.842
+I (148826) APP_MAIN: Temp  [comp]:  20.88
+I (148826) APP_MAIN: =================================
+I (149826) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12102  Y=-10917  Z=   675
+I (149826) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -451  Z=   116
+I (149826) APP_MAIN: LSM303AGR Accel [raw]: X= 11392  Y= 11888  Z=   624
+I (149826) APP_MAIN: LSM303AGR Mag   [raw]: X=  -177  Y=  -610  Z=   113
+I (149826) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (149826) APP_MAIN: ---------------
+I (149836) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.994
+I (149836) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (149836) APP_MAIN: Accel [comp]: X=0.003  Y=0.004  Z=1.007
+I (149836) APP_MAIN: Mag   [comp]: X=0.177  Y=0.448  Z=-0.840
+I (149836) APP_MAIN: Temp  [comp]:  20.88
+I (149836) APP_MAIN: =================================
+I (150836) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12086  Y=-10909  Z=   690
+I (150836) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   140  Y=  -454  Z=   113
+I (150836) APP_MAIN: LSM303AGR Accel [raw]: X= 11296  Y= 12000  Z=   656
+I (150836) APP_MAIN: LSM303AGR Mag   [raw]: X=  -186  Y=  -603  Z=   110
+I (150836) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (150836) APP_MAIN: ---------------
+I (150846) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (150846) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (150846) APP_MAIN: Accel [comp]: X=-0.002  Y=-0.002  Z=1.006
+I (150846) APP_MAIN: Mag   [comp]: X=0.174  Y=0.443  Z=-0.838
+I (150846) APP_MAIN: Temp  [comp]:  20.94
+I (150846) APP_MAIN: =================================
+I (151846) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12075  Y=-10905  Z=   702
+I (151846) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -451  Z=   114
+I (151846) APP_MAIN: LSM303AGR Accel [raw]: X= 11280  Y= 11984  Z=   688
+I (151846) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -606  Z=   109
+I (151846) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (151846) APP_MAIN: ---------------
+I (151856) APP_MAIN: Accel [comp]:  X=0.000  Y=-0.000  Z=0.993
+I (151856) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.001  Z=-0.002
+I (151856) APP_MAIN: Accel [comp]: X=-0.003  Y=-0.001  Z=1.005
+I (151856) APP_MAIN: Mag   [comp]: X=0.177  Y=0.439  Z=-0.838
+I (151856) APP_MAIN: Temp  [comp]:  20.88
+I (151856) APP_MAIN: =================================
+I (152856) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12094  Y=-10920  Z=   686
+I (152856) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   141  Y=  -454  Z=   112
+I (152856) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11904  Z=   704
+I (152856) APP_MAIN: LSM303AGR Mag   [raw]: X=  -174  Y=  -607  Z=   113
+I (152856) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (152856) APP_MAIN: ---------------
+I (152866) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.995
+I (152866) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (152866) APP_MAIN: Accel [comp]: X=-0.002  Y=0.002  Z=1.003
+I (152866) APP_MAIN: Mag   [comp]: X=0.174  Y=0.439  Z=-0.847
+I (152866) APP_MAIN: Temp  [comp]:  20.94
+I (152866) APP_MAIN: =================================
+I (153866) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12129  Y=-10934  Z=   697
+I (153866) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -456  Z=   115
+I (153866) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11904  Z=   672
+I (153866) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -609  Z=   113
+I (153866) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (153866) APP_MAIN: ---------------
+I (153876) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.997
+I (153876) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (153876) APP_MAIN: Accel [comp]: X=0.001  Y=0.002  Z=1.003
+I (153876) APP_MAIN: Mag   [comp]: X=0.175  Y=0.445  Z=-0.841
+I (153876) APP_MAIN: Temp  [comp]:  20.94
+I (153876) APP_MAIN: =================================
+I (154876) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12106  Y=-10914  Z=   663
+I (154876) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   148  Y=  -456  Z=   112
+I (154876) APP_MAIN: LSM303AGR Accel [raw]: X= 11440  Y= 11968  Z=   608
+I (154876) APP_MAIN: LSM303AGR Mag   [raw]: X=  -183  Y=  -608  Z=   107
+I (154876) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (154876) APP_MAIN: ---------------
+I (154886) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.002  Z=0.995
+I (154886) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.003  Z=-0.002
+I (154886) APP_MAIN: Accel [comp]: X=0.006  Y=0.001  Z=1.011
+I (154886) APP_MAIN: Mag   [comp]: X=0.177  Y=0.435  Z=-0.844
+I (154886) APP_MAIN: Temp  [comp]:  20.94
+I (154886) APP_MAIN: =================================
+I (155886) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12119  Y=-10930  Z=   672
+I (155886) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   141  Y=  -456  Z=   116
+I (155886) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11872  Z=   672
+I (155886) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -603  Z=   109
+I (155886) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (155886) APP_MAIN: ---------------
+I (155896) APP_MAIN: Accel [comp]:  X=0.000  Y=-0.001  Z=0.994
+I (155896) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.001  Z=-0.002
+I (155896) APP_MAIN: Accel [comp]: X=0.000  Y=-0.000  Z=1.006
+I (155896) APP_MAIN: Mag   [comp]: X=0.177  Y=0.440  Z=-0.841
+I (155896) APP_MAIN: Temp  [comp]:  20.88
+I (155896) APP_MAIN: =================================
+I (156896) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12111  Y=-10916  Z=   709
+I (156896) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   145  Y=  -458  Z=   111
+I (156896) APP_MAIN: LSM303AGR Accel [raw]: X= 11248  Y= 11984  Z=   736
+I (156896) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -606  Z=   115
+I (156896) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (156896) APP_MAIN: ---------------
+I (156906) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.000  Z=0.994
+I (156906) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.001
+I (156906) APP_MAIN: Accel [comp]: X=0.002  Y=0.000  Z=1.006
+I (156906) APP_MAIN: Mag   [comp]: X=0.170  Y=0.445  Z=-0.838
+I (156906) APP_MAIN: Temp  [comp]:  20.88
+I (156906) APP_MAIN: =================================
+I (157906) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12088  Y=-10929  Z=   710
+I (157906) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   148  Y=  -455  Z=   114
+I (157906) APP_MAIN: LSM303AGR Accel [raw]: X= 11184  Y= 12000  Z=   688
+I (157906) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -605  Z=   112
+I (157906) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (157906) APP_MAIN: ---------------
+I (157916) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (157916) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (157916) APP_MAIN: Accel [comp]: X=-0.007  Y=-0.004  Z=1.001
+I (157916) APP_MAIN: Mag   [comp]: X=0.172  Y=0.441  Z=-0.837
+I (157916) APP_MAIN: Temp  [comp]:  20.88
+I (157916) APP_MAIN: =================================
+I (158916) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12087  Y=-10912  Z=   708
+I (158916) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -455  Z=   116
+I (158916) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 11904  Z=   672
+I (158916) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -612  Z=   114
+I (158916) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (158916) APP_MAIN: ---------------
+I (158926) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.000  Z=0.996
+I (158926) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.001
+I (158926) APP_MAIN: Accel [comp]: X=-0.005  Y=0.003  Z=1.005
+I (158926) APP_MAIN: Mag   [comp]: X=0.175  Y=0.448  Z=-0.845
+I (158926) APP_MAIN: Temp  [comp]:  20.88
+I (158926) APP_MAIN: =================================
+I (159926) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12103  Y=-10911  Z=   683
+I (159926) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -454  Z=   116
+I (159926) APP_MAIN: LSM303AGR Accel [raw]: X= 11312  Y= 11968  Z=   672
+I (159926) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -610  Z=   119
+I (159926) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (159926) APP_MAIN: ---------------
+I (159936) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.000  Z=0.995
+I (159936) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (159936) APP_MAIN: Accel [comp]: X=0.002  Y=0.002  Z=1.005
+I (159936) APP_MAIN: Mag   [comp]: X=0.168  Y=0.451  Z=-0.843
+I (159936) APP_MAIN: Temp  [comp]:  20.94
+I (159936) APP_MAIN: =================================
+I (160936) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12121  Y=-10918  Z=   693
+I (160936) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   142  Y=  -451  Z=   115
+I (160936) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11968  Z=   656
+I (160936) APP_MAIN: LSM303AGR Mag   [raw]: X=  -185  Y=  -598  Z=   116
+I (160936) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (160936) APP_MAIN: ---------------
+I (160946) APP_MAIN: Accel [comp]:  X=-0.001  Y=0.000  Z=0.996
+I (160946) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (160946) APP_MAIN: Accel [comp]: X=-0.002  Y=-0.002  Z=1.003
+I (160946) APP_MAIN: Mag   [comp]: X=0.179  Y=0.441  Z=-0.839
+I (160946) APP_MAIN: Temp  [comp]:  20.94
+I (160946) APP_MAIN: =================================
+I (161946) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12111  Y=-10929  Z=   681
+I (161946) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   138  Y=  -455  Z=   124
+I (161946) APP_MAIN: LSM303AGR Accel [raw]: X= 11248  Y= 11968  Z=   688
+I (161946) APP_MAIN: LSM303AGR Mag   [raw]: X=  -184  Y=  -607  Z=   116
+I (161946) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (161946) APP_MAIN: ---------------
+I (161956) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.996
+I (161956) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.000  Z=-0.001
+I (161956) APP_MAIN: Accel [comp]: X=-0.001  Y=0.001  Z=1.003
+I (161956) APP_MAIN: Mag   [comp]: X=0.166  Y=0.444  Z=-0.843
+I (161956) APP_MAIN: Temp  [comp]:  20.88
+I (161956) APP_MAIN: =================================
+I (162956) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12101  Y=-10914  Z=   712
+I (162956) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   148  Y=  -460  Z=   118
+I (162956) APP_MAIN: LSM303AGR Accel [raw]: X= 11360  Y= 12016  Z=   752
+I (162956) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -607  Z=   112
+I (162956) APP_MAIN: LSM6DS3TR Temp [raw]:     -65
+I (162956) APP_MAIN: ---------------
+I (162966) APP_MAIN: Accel [comp]:  X=0.000  Y=0.000  Z=0.995
+I (162966) APP_MAIN: Gyro  [comp]:  X=0.001  Y=-0.002  Z=-0.002
+I (162966) APP_MAIN: Accel [comp]: X=-0.002  Y=0.004  Z=1.009
+I (162966) APP_MAIN: Mag   [comp]: X=0.174  Y=0.443  Z=-0.838
+I (162966) APP_MAIN: Temp  [comp]:  20.94
+I (162966) APP_MAIN: =================================
+I (163966) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12104  Y=-10908  Z=   670
+I (163966) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -452  Z=   112
+I (163966) APP_MAIN: LSM303AGR Accel [raw]: X= 11296  Y= 11952  Z=   704
+I (163966) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -609  Z=   110
+I (163966) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (163966) APP_MAIN: ---------------
+I (163976) APP_MAIN: Accel [comp]:  X=-0.000  Y=-0.001  Z=0.994
+I (163976) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (163976) APP_MAIN: Accel [comp]: X=-0.002  Y=0.001  Z=1.004
+I (163976) APP_MAIN: Mag   [comp]: X=0.176  Y=0.441  Z=-0.843
+I (163976) APP_MAIN: Temp  [comp]:  20.88
+I (163976) APP_MAIN: =================================
+I (164976) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12077  Y=-10911  Z=   675
+I (164976) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   143  Y=  -454  Z=   118
+I (164976) APP_MAIN: LSM303AGR Accel [raw]: X= 11408  Y= 12000  Z=   640
+I (164976) APP_MAIN: LSM303AGR Mag   [raw]: X=  -178  Y=  -609  Z=   114
+I (164976) APP_MAIN: LSM6DS3TR Temp [raw]:     -66
+I (164976) APP_MAIN: ---------------
+I (164986) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.001  Z=0.996
+I (164986) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (164986) APP_MAIN: Accel [comp]: X=-0.004  Y=0.001  Z=1.004
+I (164986) APP_MAIN: Mag   [comp]: X=0.174  Y=0.447  Z=-0.839
+I (164986) APP_MAIN: Temp  [comp]:  20.88
+I (164986) APP_MAIN: =================================
+I (165986) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12077  Y=-10903  Z=   679
+I (165986) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   144  Y=  -455  Z=   112
+I (165986) APP_MAIN: LSM303AGR Accel [raw]: X= 11216  Y= 12000  Z=   736
+I (165986) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -608  Z=   110
+I (165986) APP_MAIN: LSM6DS3TR Temp [raw]:     -67
+I (165986) APP_MAIN: ---------------
+I (165996) APP_MAIN: Accel [comp]:  X=-0.003  Y=-0.002  Z=0.997
+I (165996) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.003  Z=-0.002
+I (165996) APP_MAIN: Accel [comp]: X=-0.006  Y=0.001  Z=1.003
+I (165996) APP_MAIN: Mag   [comp]: X=0.180  Y=0.437  Z=-0.832
+I (165996) APP_MAIN: Temp  [comp]:  20.81
+I (165996) APP_MAIN: =================================
+I (166996) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12109  Y=-10910  Z=   656
+I (166996) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   139  Y=  -452  Z=   115
+I (166996) APP_MAIN: LSM303AGR Accel [raw]: X= 11344  Y= 12000  Z=   592
+I (166996) APP_MAIN: LSM303AGR Mag   [raw]: X=  -180  Y=  -609  Z=   111
+I (166996) APP_MAIN: LSM6DS3TR Temp [raw]:     -67
+I (166996) APP_MAIN: ---------------
+I (167006) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.002  Z=0.996
+I (167006) APP_MAIN: Gyro  [comp]:  X=-0.001  Y=-0.002  Z=-0.002
+I (167006) APP_MAIN: Accel [comp]: X=0.002  Y=-0.004  Z=1.008
+I (167006) APP_MAIN: Mag   [comp]: X=0.176  Y=0.442  Z=-0.842
+I (167006) APP_MAIN: Temp  [comp]:  20.81
+I (167006) APP_MAIN: =================================
+I (168006) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12104  Y=-10932  Z=   663
+I (168006) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   140  Y=  -454  Z=   116
+I (168006) APP_MAIN: LSM303AGR Accel [raw]: X= 11264  Y= 11936  Z=   688
+I (168006) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -610  Z=   110
+I (168006) APP_MAIN: LSM6DS3TR Temp [raw]:     -67
+I (168006) APP_MAIN: ---------------
+I (168016) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.994
+I (168016) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.002  Z=-0.002
+I (168016) APP_MAIN: Accel [comp]: X=-0.002  Y=0.000  Z=1.001
+I (168016) APP_MAIN: Mag   [comp]: X=0.178  Y=0.443  Z=-0.842
+I (168016) APP_MAIN: Temp  [comp]:  20.81
+I (168016) APP_MAIN: =================================
+I (169016) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12108  Y=-10925  Z=   658
+I (169016) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   150  Y=  -455  Z=   114
+I (169016) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11984  Z=   624
+I (169016) APP_MAIN: LSM303AGR Mag   [raw]: X=  -181  Y=  -607  Z=   115
+I (169016) APP_MAIN: LSM6DS3TR Temp [raw]:     -67
+I (169016) APP_MAIN: ---------------
+I (169026) APP_MAIN: Accel [comp]:  X=-0.002  Y=-0.002  Z=0.996
+I (169026) APP_MAIN: Gyro  [comp]:  X=-0.000  Y=-0.001  Z=-0.002
+I (169026) APP_MAIN: Accel [comp]: X=-0.003  Y=-0.002  Z=1.003
+I (169026) APP_MAIN: Mag   [comp]: X=0.171  Y=0.442  Z=-0.837
+I (169026) APP_MAIN: Temp  [comp]:  20.81
+I (169026) APP_MAIN: =================================
+I (170026) APP_MAIN: LSM6DS3TR Accel [raw]:  X=-12090  Y=-10914  Z=   677
+I (170026) APP_MAIN: LSM6DS3TR Gyro  [raw]:  X=   146  Y=  -457  Z=   114
+I (170026) APP_MAIN: LSM303AGR Accel [raw]: X= 11328  Y= 11936  Z=   608
+I (170026) APP_MAIN: LSM303AGR Mag   [raw]: X=  -179  Y=  -609  Z=   109
+I (170026) APP_MAIN: LSM6DS3TR Temp [raw]:     -67
+I (170026) APP_MAIN: ---------------
+I (170036) APP_MAIN: Accel [comp]:  X=-0.001  Y=-0.001  Z=0.994
+I (170036) APP_MAIN: Gyro  [comp]:  X=0.000  Y=-0.002  Z=-0.002
+I (170036) APP_MAIN: Accel [comp]: X=0.003  Y=-0.001  Z=1.004
+I (170036) APP_MAIN: Mag   [comp]: X=0.179  Y=0.441  Z=-0.841
+I (170036) APP_MAIN: Temp  [comp]:  20.81
+I (170036) APP_MAIN: =================================
